@@ -41,9 +41,9 @@ sudo apt-get install magic
 ## Instalacion en termux
 ```cmd
 -> pkg install git
--> git clone https://github.com/NeKosmic/Quantum-Bot
--> cd Quantum-Bot
--> bash install.sh
+-> git clone https://github.com/rasputtim/bodao-github.git
+-> cd bodao-github
+-> npm install
 -> npm start
 ```
 ## Ejecutar el bot estable con PM2
@@ -57,17 +57,17 @@ sudo apt-get install magic
 2.- Ejecutar el bot en PM2 :
 ```bash 
 
-> pm2 start Quantum.js
+> pm2 start index.js
 ```
 3.- Detener el bot en PM2 :
 ```bash 
 
-> pm2 stop Quantum.js
+> pm2 stop index.js
 ```
 4.- Reiniciar el bot en PM2 :
 ```bash 
 
-> pm2 restart Quantum.js
+> pm2 restart index.js
 ```
 5.- Visualizar proceso en PM2 :
 ```bash 
@@ -82,16 +82,16 @@ sudo apt-get install magic
 > pm2 kill
 ```
 
-## Mis redes sociales ✓
-<a href="https://youtube.com/channel/UC_Pp8pT9vbT15k5_-i6oseA"><img width="60px" alt="Youtube" title="Youtube" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYrf6LEg3xKz9iuv3OcmplEWUY8Etgv7e-g&usqp=CAU"/></a>
+## Our Social Networks ✓
+<a href="https://www.youtube.com/playlist?list=PLzt4hR8S75u37Af_Xn5Zcwqsfy-9Z8jVw"><img width="60px" alt="Youtube" title="Youtube" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYrf6LEg3xKz9iuv3OcmplEWUY8Etgv7e-g&usqp=CAU"/></a>
 ## WhatsApp bot multidevice version beta, si encuentras algún error por favor informarme :D
 <a href= `https://wa.me/${CREATOR_NUMBER}?text=Wenas...+me+ayudas+con+el+bot+multidevice+:)`><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-## Agradecimientos especiales :3
+## Special thanks :3
 
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<img src="https://github.com/NeKosmic/NK-BOT/blob/main/culebrita.svg" />
+<img src="https://github.com/rasputtim/bodao-github/" />
 </div>
 
