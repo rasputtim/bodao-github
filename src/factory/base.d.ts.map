@@ -1,0 +1,1 @@
+{"version":3,"file":"base.d.ts","sourceRoot":"/","sources":["src/factory/base.ts"],"names":[],"mappings":"AAAA;;GAEG;AACF,MAAM,CAAC,OAAO,OAAO,KAAK;IAEvB,OAAO,CAAC,OAAO,CAAI;;IAMlB,IAAI,MAAM,CAAC,CAAC,EAAC,GAAG,EAEf;IACD,IAAI,MAAM,IAHG,GAAG,CAGkB;IAElC,MAAM;IAIN,MAAM,CAAC,IAAI,KAAA;CACd"}

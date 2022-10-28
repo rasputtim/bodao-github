@@ -1,0 +1,1 @@
+{"version":3,"file":"macfacil.d.ts","sourceRoot":"/","sources":["src/factory/libs/macfacil.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,OAAO,MAAM,yDAAyD,CAAC;AACnF,OAAO,OAAO,MAAM,+CAA+C,CAAC;AAYpE,MAAM,CAAC,OAAO,OAAO,WAAY,SAAQ,OAAO;IAI5C;;;;;;;;;;;;;OAaG;WACU,UAAU,CAAC,OAAO,EAAC,OAAO,CAAC,cAAc;WAmDzC,MAAM;WAyBN,cAAc,CAAC,QAAQ,KAAA;CAOvC"}

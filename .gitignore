@@ -5,6 +5,28 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+*~
+*.sw[mnpcod]
+.tmp
+*.tmp
+*.tmp.*
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+$RECYCLE.BIN/
+*.log
+log.txt
+npm-debug.log*
+/.idea
+/.ionic
+/.sass-cache
+/.sourcemaps
+/.versions
+/coverage
+.directory
+baileys_auth_info
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -37,9 +59,11 @@ bower_components
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
+
 # Dependency directories
 node_modules/
 jspm_packages/
+
 
 # TypeScript v1 declaration files
 typings/
@@ -71,6 +95,7 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
+.env.example
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -81,6 +106,10 @@ typings/
 # Nuxt.js build / generate output
 .nuxt
 dist
+bodao-github
+wwww
+platforms
+logging
 
 # Gatsby files
 .cache/

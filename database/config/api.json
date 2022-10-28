@@ -1,0 +1,15 @@
+{
+    "apiNoBg": ["YOUR-API-KEY-HERE", "ADD-OTHER-API-KEY-HERE-FOR-MORE-LIMIT", "AND-AGAIN"], 
+    "apiFarzain": "YOUR-API-KEY-HERE",
+    "apiItech": "YOUR-API-KEY-HERE",
+    "apiLol": "YOUR-API-KEY-HERE",
+    "apiGenius": "YOUR-API-KEY-HERE",
+    "apiOcr": "YOUR-API-KEY-HERE",
+    "saweriaOverlay": "YOUR SAWERIA OVERLAY LINK",
+    "nao": "api-key",
+    "vhtear": "api-key",
+    "melodic": "administrator",
+    "tobz": "api-key", 
+    "lol": "api-key",
+    "bodaoPlugins": "http://localhost:8000/v1/bodao/plugins"
+}

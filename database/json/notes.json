@@ -1,0 +1,17 @@
+{
+  "chats": [
+    {
+      "id": "120363025246779605@g.us",
+      "note": [
+        {
+          "name": "teste1",
+          "content": "/createnote teste1"
+        },
+        {
+          "name": "teste2",
+          "content": "Eu sou lindo"
+        }
+      ]
+    }
+  ]
+}

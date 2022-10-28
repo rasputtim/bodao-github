@@ -1,0 +1,7 @@
+{
+     "locales": ["en", "pt-br","es","ind"],
+     "defaultLocale": "pt-br",
+     "queryParameter": "lang",
+     "directory":  "src/languajes/locales",
+     "syncFiles": true
+}

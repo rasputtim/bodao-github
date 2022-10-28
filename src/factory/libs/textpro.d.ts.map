@@ -1,0 +1,1 @@
+{"version":3,"file":"textpro.d.ts","sourceRoot":"/","sources":["src/factory/libs/textpro.ts"],"names":[],"mappings":"AAQA,cAAM,OAAO;WAEA,IAAI,CAAC,GAAG,KAAA,EAAE,QAAQ,gBAAK,EAAE,OAAO,KAAA;IA0B7C;;;;;OAKG;WAEU,GAAG,CAAC,GAAG,KAAA,EAAE,IAAI,KAAA;CAgEzB;AACD,eAAe,OAAO,CAAA"}

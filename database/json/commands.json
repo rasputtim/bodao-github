@@ -1,0 +1,1948 @@
+{
+  "commandList": [
+    {
+      "class": "aniFaceHD",
+      "file": "aniFaceHD.js",
+      "commands": [
+        "rostohd",
+        "facehd",
+        "rostohd",
+        "facehd"
+      ]
+    },
+    {
+      "class": "aniFrase",
+      "file": "aniFrase.js",
+      "commands": [
+        "anifrase"
+      ]
+    },
+    {
+      "class": "aniHimnoOtaku",
+      "file": "aniHimnoOtaku.js",
+      "commands": [
+        "himnootaku"
+      ]
+    },
+    {
+      "class": "aniNekos",
+      "file": "aniNeko.js",
+      "commands": [
+        "neko",
+        "nekos",
+        "neko",
+        "nekos"
+      ]
+    },
+    {
+      "class": "aniNekos2",
+      "file": "aniNeko2.js",
+      "commands": [
+        "nekos2",
+        "neko2",
+        "nekos2",
+        "neko2"
+      ]
+    },
+    {
+      "class": "aniNekos3",
+      "file": "aniNeko3.js",
+      "commands": [
+        "nekos3",
+        "neko3",
+        "nekos3",
+        "neko3"
+      ]
+    },
+    {
+      "class": "aniOtakutest",
+      "file": "aniOtakuTest.js",
+      "commands": [
+        "snime",
+        "testotaku",
+        "snime",
+        "testotaku"
+      ]
+    },
+    {
+      "class": "aniRecomend",
+      "file": "aniRecomend.js",
+      "commands": [
+        "recoani"
+      ]
+    },
+    {
+      "class": "aniSnime",
+      "file": "aniSnime.js",
+      "commands": [
+        "snime"
+      ]
+    },
+    {
+      "class": "aniWaifu",
+      "file": "aniWaifu.js",
+      "commands": [
+        "waifu"
+      ]
+    },
+    {
+      "class": "aniWait",
+      "file": "aniWait.js",
+      "commands": [
+        "aniwait"
+      ]
+    },
+    {
+      "class": "aniWalpaper",
+      "file": "aniWallpaper.js",
+      "commands": [
+        "aniwpp",
+        "wallpaper",
+        "aniwpp",
+        "wallpaper"
+      ]
+    },
+    {
+      "class": "bc",
+      "file": "bc.js",
+      "commands": [
+        "bc",
+        "bcc",
+        "bc",
+        "bcc"
+      ]
+    },
+    {
+      "class": "bcGroup",
+      "file": "bcGroup.js",
+      "commands": [
+        "bcgroup",
+        "bcg",
+        "bcgroup",
+        "bcg"
+      ]
+    },
+    {
+      "class": "disableBot",
+      "file": "botDisableBot.js",
+      "commands": [
+        "disablebot",
+        "fgp",
+        "disablebot",
+        "fgp"
+      ]
+    },
+    {
+      "class": "botDisableCommand",
+      "file": "botEnableTAGSchat.js",
+      "commands": [
+        "enabletagchat",
+        "ctagena",
+        "ect",
+        "enabletagchat",
+        "ctagena",
+        "ect",
+        "enabletagchat",
+        "ctagena",
+        "ect"
+      ]
+    },
+    {
+      "class": "botOpen",
+      "file": "botEnableBot.js",
+      "commands": [
+        "open",
+        "abrir",
+        "open",
+        "abrir"
+      ]
+    },
+    {
+      "class": "botEnableCommand",
+      "file": "botEnableCommand.js",
+      "commands": [
+        "enablecom",
+        "comena",
+        "ec",
+        "enablecom",
+        "comena",
+        "ec",
+        "enablecom",
+        "comena",
+        "ec"
+      ]
+    },
+    {
+      "class": "botINFO",
+      "file": "botInfo.js",
+      "commands": [
+        "botinfo"
+      ]
+    },
+    {
+      "class": "Ping",
+      "file": "botPing.js",
+      "commands": [
+        "ping",
+        "rebote",
+        "ping",
+        "rebote"
+      ]
+    },
+    {
+      "class": "changeBotName",
+      "file": "changeBotName.js",
+      "commands": [
+        "nomebot",
+        "botnome",
+        "nomebot",
+        "botnome"
+      ]
+    },
+    {
+      "class": "changeBotProfileImage",
+      "file": "changeBotprofileImage.js",
+      "commands": [
+        "mudaimagembot",
+        "botimg",
+        "mudaimagembot",
+        "botimg"
+      ]
+    },
+    {
+      "class": "changeCoOwner",
+      "file": "changeCoOwner.js",
+      "commands": [
+        "donobot",
+        "botdono",
+        "dono",
+        "donobot",
+        "botdono",
+        "dono",
+        "donobot",
+        "botdono",
+        "dono"
+      ]
+    },
+    {
+      "class": "changeGroupDesc",
+      "file": "changeGroupDescr.js",
+      "commands": [
+        "descgrupo",
+        "setgdesc",
+        "gpdesc",
+        "descgrupo",
+        "setgdesc",
+        "gpdesc",
+        "descgrupo",
+        "setgdesc",
+        "gpdesc"
+      ]
+    },
+    {
+      "class": "changeGroupIcon",
+      "file": "changeGroupIcon.js",
+      "commands": [
+        "fotogrupo",
+        "grupofoto",
+        "fotogrupo",
+        "grupofoto"
+      ]
+    },
+    {
+      "class": "changeGroupName",
+      "file": "changeGroupName.js",
+      "commands": [
+        "nomegrupo",
+        "setgname",
+        "nomegrupo",
+        "setgname"
+      ]
+    },
+    {
+      "class": "changeLimitVal",
+      "file": "changeLimitVal.js",
+      "commands": [
+        "limitval",
+        "mudalimite",
+        "limitval",
+        "mudalimite"
+      ]
+    },
+    {
+      "class": "changeOwnerSocialNet",
+      "file": "changeOwnerSocialNet.js",
+      "commands": [
+        "donosocial",
+        "socialdono",
+        "donosocial",
+        "socialdono"
+      ]
+    },
+    {
+      "class": "changePrefix",
+      "file": "changePrefix.js",
+      "commands": [
+        "prefixo",
+        "prefix",
+        "prefixo",
+        "prefix"
+      ]
+    },
+    {
+      "class": "convVidToMp3",
+      "file": "convVidToMp3.js",
+      "commands": [
+        "tomp3"
+      ]
+    },
+    {
+      "class": "convVidToStk",
+      "file": "convVidToStk.js",
+      "commands": [
+        "vidtosticker"
+      ]
+    },
+    {
+      "class": "efect8d",
+      "file": "efect8d.js",
+      "commands": [
+        "8d"
+      ]
+    },
+    {
+      "class": "efectCustom",
+      "file": "efectCustom.js",
+      "commands": [
+        "efc"
+      ]
+    },
+    {
+      "class": "efectDeepslow",
+      "file": "efectInfraDeepslow.js",
+      "commands": [
+        "deepslow"
+      ]
+    },
+    {
+      "class": "efectEarrape",
+      "file": "efectEarrape.js",
+      "commands": [
+        "earrape"
+      ]
+    },
+    {
+      "class": "efectArdilla",
+      "file": "efectInfraArdilla.js",
+      "commands": [
+        "ardilla"
+      ]
+    },
+    {
+      "class": "efectBassIncrease",
+      "file": "efectInfraBassIncrease.js",
+      "commands": [
+        "bass"
+      ]
+    },
+    {
+      "class": "efectDemo",
+      "file": "efectInfraDemo.js",
+      "commands": [
+        "demo"
+      ]
+    },
+    {
+      "class": "efectDistortion",
+      "file": "efectInfraDistortion.js",
+      "commands": [
+        "distortion"
+      ]
+    },
+    {
+      "class": "efectInfraMundo",
+      "file": "efectInfraMundo.js",
+      "commands": [
+        "inframundo"
+      ]
+    },
+    {
+      "class": "efectNightCore2",
+      "file": "efectInfraNightCore2.js",
+      "commands": [
+        "nightcore2"
+      ]
+    },
+    {
+      "class": "efectSuperveloz",
+      "file": "efectInfraSuperveloz.js",
+      "commands": [
+        "superveloz"
+      ]
+    },
+    {
+      "class": "efectNightCore",
+      "file": "efectNightcore.js",
+      "commands": [
+        "nightcore"
+      ]
+    },
+    {
+      "class": "efectReverse",
+      "file": "efectReverse.js",
+      "commands": [
+        "reverse"
+      ]
+    },
+    {
+      "class": "efectRobot",
+      "file": "efectRobot.js",
+      "commands": [
+        "robo",
+        "robot",
+        "robô",
+        "robo",
+        "robot",
+        "robô",
+        "robo",
+        "robot",
+        "robô"
+      ]
+    },
+    {
+      "class": "efectSamarkan",
+      "file": "efectSamarkan.js",
+      "commands": [
+        "samarkan"
+      ]
+    },
+    {
+      "class": "efectTomp3",
+      "file": "efectTomp3.js",
+      "commands": [
+        "tomp3",
+        "amp3",
+        "tomp3",
+        "amp3"
+      ]
+    },
+    {
+      "class": "efectVibrato",
+      "file": "efectVibrato.js",
+      "commands": [
+        "vibrato"
+      ]
+    },
+    {
+      "class": "efectrevaudAudio",
+      "file": "effectAudReverse.js",
+      "commands": [
+        "revaud",
+        "audiorev",
+        "revaud",
+        "audiorev"
+      ]
+    },
+    {
+      "class": "decVidSpeed",
+      "file": "effectVidReverse.js",
+      "commands": [
+        "reversevid",
+        "rvid",
+        "reversevid",
+        "rvid"
+      ]
+    },
+    {
+      "class": "incVidSpeed",
+      "file": "effectIncVidSpeed.js",
+      "commands": [
+        "aceleravid",
+        "aceleravideo",
+        "aceleravídeo",
+        "aceleravid",
+        "aceleravideo",
+        "aceleravídeo",
+        "aceleravid",
+        "aceleravideo",
+        "aceleravídeo"
+      ]
+    },
+    {
+      "class": "fullClima",
+      "file": "fullClima.js",
+      "commands": [
+        "clima"
+      ]
+    },
+    {
+      "class": "fullCovid",
+      "file": "fullCovid.js",
+      "commands": [
+        "covid"
+      ]
+    },
+    {
+      "class": "fullDJBot",
+      "file": "fullDJBot.js",
+      "commands": [
+        "djbot",
+        "dj",
+        "djbot",
+        "dj"
+      ]
+    },
+    {
+      "class": "fullGithub",
+      "file": "fullGithub.js",
+      "commands": [
+        "github"
+      ]
+    },
+    {
+      "class": "fullGruposWa",
+      "file": "fullGruposWa.js",
+      "commands": [
+        "gruposwa",
+        "wagrupos",
+        "gruposwa",
+        "wagrupos"
+      ]
+    },
+    {
+      "class": "fullJokesTumama",
+      "file": "fullJokesTumama.js",
+      "commands": [
+        "suamae",
+        "suamãe",
+        "suamae",
+        "suamãe"
+      ]
+    },
+    {
+      "class": "fullMinidados",
+      "file": "fullMiniDados.js",
+      "commands": [
+        "minidados",
+        "minidados",
+        "minidados",
+        "minidados"
+      ]
+    },
+    {
+      "class": "fullQuotes",
+      "file": "fullQuotes.js",
+      "commands": [
+        "citação",
+        "citar",
+        "quote",
+        "citação",
+        "citar",
+        "quote",
+        "citação",
+        "citar",
+        "quote"
+      ]
+    },
+    {
+      "class": "fullSIMI",
+      "file": "fullSimi.js",
+      "commands": [
+        "simi"
+      ]
+    },
+    {
+      "class": "vozToSpeech",
+      "file": "fullTTSpeech.js",
+      "commands": [
+        "voz",
+        "voz",
+        "tts",
+        "voz",
+        "voz",
+        "tts",
+        "voz",
+        "voz",
+        "tts"
+      ]
+    },
+    {
+      "class": "textToSpeech",
+      "file": "fullTTSpeech2.js",
+      "commands": [
+        "voz2",
+        "voz2",
+        "tts2",
+        "voz2",
+        "voz2",
+        "tts2",
+        "voz2",
+        "voz2",
+        "tts2"
+      ]
+    },
+    {
+      "class": "fullVoF",
+      "file": "fullVoF.js",
+      "commands": [
+        "vof",
+        "v_o_f",
+        "vof",
+        "v_o_f"
+      ]
+    },
+    {
+      "class": "fullTranslator",
+      "file": "fullTranslator.js",
+      "commands": [
+        "traduz",
+        "traduzir",
+        "traduz",
+        "traduzir"
+      ]
+    },
+    {
+      "class": "fullVoFFalse",
+      "file": "fullVoFFalse.js",
+      "commands": [
+        "vofrpt2"
+      ]
+    },
+    {
+      "class": "fullVoFTrue",
+      "file": "fullVoFTrue.js",
+      "commands": [
+        "vofrpt1"
+      ]
+    },
+    {
+      "class": "gameSlotMachine",
+      "file": "gameCoins.js",
+      "commands": [
+        "coins",
+        "niqueis",
+        "coins",
+        "niqueis"
+      ]
+    },
+    {
+      "class": "gameCupid",
+      "file": "gameCupid.js",
+      "commands": [
+        "cupido",
+        "par",
+        "cupido",
+        "par"
+      ]
+    },
+    {
+      "class": "gameDice",
+      "file": "gameDice.js",
+      "commands": [
+        "dados"
+      ]
+    },
+    {
+      "class": "gameDie",
+      "file": "gameDie.js",
+      "commands": [
+        "dado"
+      ]
+    },
+    {
+      "class": "gameTesteGay",
+      "file": "gameTesteGay.js",
+      "commands": [
+        "testegay",
+        "gay",
+        "testegay",
+        "gay"
+      ]
+    },
+    {
+      "class": "gameTop10",
+      "file": "gameTop10.js",
+      "commands": [
+        "top10"
+      ]
+    },
+    {
+      "class": "gameTop5",
+      "file": "gameTop5.js",
+      "commands": [
+        "top5"
+      ]
+    },
+    {
+      "class": "gameVoting",
+      "file": "gameVoting.js",
+      "commands": [
+        "votar"
+      ]
+    },
+    {
+      "class": "getGroupInfo",
+      "file": "getGroupInfo.js",
+      "commands": [
+        "infogrupo",
+        "grupoinfo",
+        "infogrupo",
+        "grupoinfo"
+      ]
+    },
+    {
+      "class": "getFacebook",
+      "file": "getFacebook.js",
+      "commands": [
+        "fb"
+      ]
+    },
+    {
+      "class": "getFacebookHD",
+      "file": "getFacebookHD.js",
+      "commands": [
+        "fbhd"
+      ]
+    },
+    {
+      "class": "getFacebookSD",
+      "file": "getFacebookSD.js",
+      "commands": [
+        "fbsd"
+      ]
+    },
+    {
+      "class": "getGroupLink",
+      "file": "getGroupLink.js",
+      "commands": [
+        "glink",
+        "linkgrupo",
+        "glink",
+        "linkgrupo"
+      ]
+    },
+    {
+      "class": "getLimitInfo",
+      "file": "getLimit.js",
+      "commands": [
+        "limite",
+        "meulimite",
+        "limite",
+        "meulimite"
+      ]
+    },
+    {
+      "class": "getNameInfo",
+      "file": "getMediaFire.js",
+      "commands": [
+        "mediafire"
+      ]
+    },
+    {
+      "class": "getOwner",
+      "file": "getOwner.js",
+      "commands": [
+        "dono",
+        "donobot",
+        "dono",
+        "donobot"
+      ]
+    },
+    {
+      "class": "getSFX",
+      "file": "getSFX.js",
+      "commands": [
+        "sfx",
+        "grupoinfo",
+        "ea",
+        "sfx",
+        "grupoinfo",
+        "ea",
+        "sfx",
+        "grupoinfo",
+        "ea"
+      ]
+    },
+    {
+      "class": "getStats",
+      "file": "getStats.js",
+      "commands": [
+        "status",
+        "meustatus",
+        "status",
+        "meustatus"
+      ]
+    },
+    {
+      "class": "getTikTok",
+      "file": "getTikTok.js",
+      "commands": [
+        "tiktok",
+        "tt",
+        "tiktok",
+        "tt"
+      ]
+    },
+    {
+      "class": "getTikTokProfile",
+      "file": "getTikTokProfile.js",
+      "commands": [
+        "ttuser",
+        "ttperfil",
+        "ttuser",
+        "ttperfil"
+      ]
+    },
+    {
+      "class": "getWAinfo",
+      "file": "getWAinfo.js",
+      "commands": [
+        "wainfo"
+      ]
+    },
+    {
+      "class": "getYouTube",
+      "file": "getYouTube.js",
+      "commands": [
+        "yts"
+      ]
+    },
+    {
+      "class": "getYTMp3",
+      "file": "getYtMp3.js",
+      "commands": [
+        "ytmp3"
+      ]
+    },
+    {
+      "class": "getYTMp4",
+      "file": "getYtMp4.js",
+      "commands": [
+        "ytmp4"
+      ]
+    },
+    {
+      "class": "groupRebaixaMember",
+      "file": "groupDemoteMember.js",
+      "commands": [
+        "rebaixa",
+        "tirarpoder",
+        "rebaixa",
+        "tirarpoder"
+      ]
+    },
+    {
+      "class": "groupGoodBy",
+      "file": "groupGoodBy.js",
+      "commands": [
+        "despedida",
+        "bye",
+        "despedida",
+        "bye"
+      ]
+    },
+    {
+      "class": "groupJoin",
+      "file": "groupJoin.js",
+      "commands": [
+        "join",
+        "jg",
+        "join",
+        "jg"
+      ]
+    },
+    {
+      "class": "groupKickMember",
+      "file": "groupKickMember.js",
+      "commands": [
+        "expulsa"
+      ]
+    },
+    {
+      "class": "grouppromoveMember",
+      "file": "groupPromoteMember.js",
+      "commands": [
+        "promove",
+        "dapoder",
+        "promove",
+        "dapoder"
+      ]
+    },
+    {
+      "class": "groupTagAll",
+      "file": "groupTagAll.js",
+      "commands": [
+        "todos",
+        "selusers",
+        "todos",
+        "selusers"
+      ]
+    },
+    {
+      "class": "groupTagActive",
+      "file": "groupTagAtivos.js",
+      "commands": [
+        "ativos",
+        "selati",
+        "ativos",
+        "selati"
+      ]
+    },
+    {
+      "class": "groupTotag",
+      "file": "groupToTag.js",
+      "commands": [
+        "totag"
+      ]
+    },
+    {
+      "class": "hentaiTrap",
+      "file": "hentaiTrap.js",
+      "commands": [
+        "htrap"
+      ]
+    },
+    {
+      "class": "hentaiFutanari",
+      "file": "hentaiFutanari.js",
+      "commands": [
+        "hfutanari"
+      ]
+    },
+    {
+      "class": "hentaiLewd",
+      "file": "hentaiLewd.js",
+      "commands": [
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao",
+        "ecchi",
+        "lewdanimegirls",
+        "hentai",
+        "hentaifemdom",
+        "hentaiparadise",
+        "hentai4everyone",
+        "animearmpits",
+        "animefeets",
+        "animethighss",
+        "animebooty",
+        "biganimetiddies",
+        "animebellybutton",
+        "sideoppai",
+        "ahegao"
+      ]
+    },
+    {
+      "class": "hentaiNeko",
+      "file": "hentaiNeko.js",
+      "commands": [
+        "hneko"
+      ]
+    },
+    {
+      "class": "hentaiRand",
+      "file": "hentaiRand.js",
+      "commands": [
+        "hentai"
+      ]
+    },
+    {
+      "class": "hentaiWaifu",
+      "file": "hentaiWaifu.js",
+      "commands": [
+        "hwaifu"
+      ]
+    },
+    {
+      "class": "menu",
+      "file": "menu.js",
+      "commands": [
+        "menu",
+        "commandos",
+        "menu",
+        "commandos"
+      ]
+    },
+    {
+      "class": "menuSupport",
+      "file": "menuSupport.js",
+      "commands": [
+        "support"
+      ]
+    },
+    {
+      "class": "menuChoose",
+      "file": "menuchoose.js",
+      "commands": [
+        "escolhemenu",
+        "choosemenu",
+        "escolhemenu",
+        "choosemenu"
+      ]
+    },
+    {
+      "class": "menuHelp",
+      "file": "menuhelp.js",
+      "commands": [
+        "help"
+      ]
+    },
+    {
+      "class": "menuSub",
+      "file": "menusub.js",
+      "commands": [
+        "submenu"
+      ]
+    },
+    {
+      "class": "modeAFK",
+      "file": "modoAFK.js",
+      "commands": [
+        "afk"
+      ]
+    },
+    {
+      "class": "modeAnime",
+      "file": "modoAnime.js",
+      "commands": [
+        "modoanime",
+        "animeuwu",
+        "anime",
+        "modoanime",
+        "animeuwu",
+        "anime",
+        "modoanime",
+        "animeuwu",
+        "anime"
+      ]
+    },
+    {
+      "class": "modeAntiFakes",
+      "file": "modoAntiFakes.js",
+      "commands": [
+        "antifalsos",
+        "antifakes",
+        "antifalsos",
+        "antifakes"
+      ]
+    },
+    {
+      "class": "modeAntiFakesEUA",
+      "file": "modoAntiFakesEUA.js",
+      "commands": [
+        "antifalsoseua",
+        "antifakes2",
+        "antifalsoseua",
+        "antifakes2"
+      ]
+    },
+    {
+      "class": "modeAntiFlood",
+      "file": "modoAntiFlood.js",
+      "commands": [
+        "antiflood",
+        "inundar",
+        "antiflood",
+        "inundar"
+      ]
+    },
+    {
+      "class": "modeAntiForeign",
+      "file": "modoAntiForeign.js",
+      "commands": [
+        "antiestrangeiros",
+        "mae",
+        "antie",
+        "antiestrangeiros",
+        "mae",
+        "antie",
+        "antiestrangeiros",
+        "mae",
+        "antie"
+      ]
+    },
+    {
+      "class": "modeAntiLinkGroup",
+      "file": "modoAntiLinkGroup.js",
+      "commands": [
+        "antilinkgroup"
+      ]
+    },
+    {
+      "class": "modeAntiPrivate",
+      "file": "modoAntiPrivate.js",
+      "commands": [
+        "antiprivado",
+        "antiprivado",
+        "modoap",
+        "antiprivado",
+        "antiprivado",
+        "modoap",
+        "antiprivado",
+        "antiprivado",
+        "modoap"
+      ]
+    },
+    {
+      "class": "modeAntivirtex",
+      "file": "modoAntiVirtex.js",
+      "commands": [
+        "antivirus",
+        "antiviruz",
+        "modov",
+        "antivirus",
+        "antiviruz",
+        "modov",
+        "antivirus",
+        "antiviruz",
+        "modov"
+      ]
+    },
+    {
+      "class": "modeAntiLink",
+      "file": "modoAntilink.js",
+      "commands": [
+        "antilink"
+      ]
+    },
+    {
+      "class": "modeBan",
+      "file": "modoBan.js",
+      "commands": [
+        "modoban",
+        "banchat",
+        "chatban",
+        "modoban",
+        "banchat",
+        "chatban",
+        "modoban",
+        "banchat",
+        "chatban"
+      ]
+    },
+    {
+      "class": "modoConversationSIMI",
+      "file": "modoConversation.js",
+      "commands": [
+        "ativachat",
+        "chatbot",
+        "ativachat",
+        "chatbot"
+      ]
+    },
+    {
+      "class": "modePrivatePuclicChoice",
+      "file": "modoDonoChoice.js",
+      "commands": [
+        "modo1"
+      ]
+    },
+    {
+      "class": "modeOwnerEnable",
+      "file": "modoDonoPrivate.js",
+      "commands": [
+        "mododono",
+        "modoprivado",
+        "mododono",
+        "modoprivado"
+      ]
+    },
+    {
+      "class": "modeOwnerDisable",
+      "file": "modoDonoPublic.js",
+      "commands": [
+        "modo1"
+      ]
+    },
+    {
+      "class": "modeFull",
+      "file": "modoFun.js",
+      "commands": [
+        "modocompleto",
+        "completo",
+        "modofull",
+        "modocompleto",
+        "completo",
+        "modofull",
+        "modocompleto",
+        "completo",
+        "modofull"
+      ]
+    },
+    {
+      "class": "modeHentai",
+      "file": "modoHentai.js",
+      "commands": [
+        "modohentai",
+        "modoh",
+        "hmode",
+        "modohentai",
+        "modoh",
+        "hmode",
+        "modohentai",
+        "modoh",
+        "hmode"
+      ]
+    },
+    {
+      "class": "modeKickUser",
+      "file": "modoKickUser.js",
+      "commands": [
+        "modokick",
+        "kickchat",
+        "chatkick",
+        "modokick",
+        "kickchat",
+        "chatkick",
+        "modokick",
+        "kickchat",
+        "chatkick"
+      ]
+    },
+    {
+      "class": "modeLeveling",
+      "file": "modoLevel.js",
+      "commands": [
+        "nivelamento",
+        "modol",
+        "lmode",
+        "nivelamento",
+        "modol",
+        "lmode",
+        "nivelamento",
+        "modol",
+        "lmode"
+      ]
+    },
+    {
+      "class": "modeOffline",
+      "file": "modoOffLine.js",
+      "commands": [
+        "offline",
+        "seminternet",
+        "noint",
+        "offline",
+        "seminternet",
+        "noint",
+        "offline",
+        "seminternet",
+        "noint"
+      ]
+    },
+    {
+      "class": "modeWelcome",
+      "file": "modoWelcome.js",
+      "commands": [
+        "welcome",
+        "wlc",
+        "benvindo",
+        "modob",
+        "welcome",
+        "wlc",
+        "benvindo",
+        "modob",
+        "welcome",
+        "wlc",
+        "benvindo",
+        "modob",
+        "welcome",
+        "wlc",
+        "benvindo",
+        "modob"
+      ]
+    },
+    {
+      "class": "morecmds",
+      "file": "morecmds.js",
+      "commands": [
+        "mascmds",
+        "maiscomandos",
+        "maiscmds",
+        "morecmds",
+        "mascmds",
+        "maiscomandos",
+        "maiscmds",
+        "morecmds",
+        "mascmds",
+        "maiscomandos",
+        "maiscmds",
+        "morecmds",
+        "mascmds",
+        "maiscomandos",
+        "maiscmds",
+        "morecmds"
+      ]
+    },
+    {
+      "class": "readmore",
+      "file": "readmore.js",
+      "commands": [
+        "readmore"
+      ]
+    },
+    {
+      "class": "report",
+      "file": "report.js",
+      "commands": [
+        "relatorio",
+        "report",
+        "relatorio",
+        "report"
+      ]
+    },
+    {
+      "class": "searchDogs",
+      "file": "searchImageDogs.js",
+      "commands": [
+        "cão",
+        "cao",
+        "cachorro",
+        "dog",
+        "cão",
+        "cao",
+        "cachorro",
+        "dog",
+        "cão",
+        "cao",
+        "cachorro",
+        "dog",
+        "cão",
+        "cao",
+        "cachorro",
+        "dog"
+      ]
+    },
+    {
+      "class": "searchGoogle",
+      "file": "searchGoogle.js",
+      "commands": [
+        "google"
+      ]
+    },
+    {
+      "class": "searchGoogleImage",
+      "file": "searchGoogleImage.js",
+      "commands": [
+        "gimage"
+      ]
+    },
+    {
+      "class": "searchIP",
+      "file": "searchIP.js",
+      "commands": [
+        "ip"
+      ]
+    },
+    {
+      "class": "searchCats",
+      "file": "searchImageCats.js",
+      "commands": [
+        "gato",
+        "gatos",
+        "cats",
+        "cat",
+        "gato",
+        "gatos",
+        "cats",
+        "cat",
+        "gato",
+        "gatos",
+        "cats",
+        "cat",
+        "gato",
+        "gatos",
+        "cats",
+        "cat"
+      ]
+    },
+    {
+      "class": "searchWallpapers",
+      "file": "searchImageWallpaper.js",
+      "commands": [
+        "wallpaper",
+        "wp",
+        "wpp",
+        "wallpaper",
+        "wp",
+        "wpp",
+        "wallpaper",
+        "wp",
+        "wpp"
+      ]
+    },
+    {
+      "class": "searchImageXD",
+      "file": "searchImageXD.js",
+      "commands": [
+        "xd"
+      ]
+    },
+    {
+      "class": "searchLirics",
+      "file": "searchLirics.js",
+      "commands": [
+        "liric",
+        "musica",
+        "liric",
+        "musica"
+      ]
+    },
+    {
+      "class": "searchNameInfo",
+      "file": "searchNameInfo.js",
+      "commands": [
+        "nome",
+        "infonome",
+        "nome",
+        "infonome"
+      ]
+    },
+    {
+      "class": "searchPinterest",
+      "file": "searchPinterest.js",
+      "commands": [
+        "pinterest"
+      ]
+    },
+    {
+      "class": "searchPin2",
+      "file": "searchPinterest2.js",
+      "commands": [
+        "pin",
+        "pin2",
+        "pin3",
+        "pin",
+        "pin2",
+        "pin3",
+        "pin",
+        "pin2",
+        "pin3"
+      ]
+    },
+    {
+      "class": "searchPlayStore",
+      "file": "searchPlayStore.js",
+      "commands": [
+        "playstore"
+      ]
+    },
+    {
+      "class": "searchScriptures",
+      "file": "searchScriptures.js",
+      "commands": [
+        "esc",
+        "escritura",
+        "esc",
+        "escritura"
+      ]
+    },
+    {
+      "class": "searchWikipedia",
+      "file": "searchWikipedia.js",
+      "commands": [
+        "wiki",
+        "wikipedia",
+        "wiki",
+        "wikipedia"
+      ]
+    },
+    {
+      "class": "searchYouTube",
+      "file": "searchYouTube.js",
+      "commands": [
+        "play"
+      ]
+    },
+    {
+      "class": "searchYouTube2",
+      "file": "searchYouTube2.js",
+      "commands": [
+        "play2"
+      ]
+    },
+    {
+      "class": "showUsersBanned",
+      "file": "showBannedUsers.js",
+      "commands": [
+        "ban",
+        "banidos",
+        "banusers",
+        "ban",
+        "banidos",
+        "banusers",
+        "ban",
+        "banidos",
+        "banusers"
+      ]
+    },
+    {
+      "class": "showBotProfile",
+      "file": "showBotProfile.js",
+      "commands": [
+        "perfilbot",
+        "infobot",
+        "botinfo",
+        "botperfil",
+        "perfilbot",
+        "infobot",
+        "botinfo",
+        "botperfil",
+        "perfilbot",
+        "infobot",
+        "botinfo",
+        "botperfil",
+        "perfilbot",
+        "infobot",
+        "botinfo",
+        "botperfil"
+      ]
+    },
+    {
+      "class": "showUserLevel",
+      "file": "showUserLevel.js",
+      "commands": [
+        "level",
+        "meulevel",
+        "levelinfo",
+        "level",
+        "meulevel",
+        "levelinfo",
+        "level",
+        "meulevel",
+        "levelinfo"
+      ]
+    },
+    {
+      "class": "showUserProfile",
+      "file": "showUserProfile.js",
+      "commands": [
+        "perfil",
+        "meuperfil",
+        "info",
+        "perfil",
+        "meuperfil",
+        "info",
+        "perfil",
+        "meuperfil",
+        "info"
+      ]
+    },
+    {
+      "class": "showWho",
+      "file": "showWho.js",
+      "commands": [
+        "quem",
+        "meuquem",
+        "who",
+        "quem",
+        "meuquem",
+        "who",
+        "quem",
+        "meuquem",
+        "who"
+      ]
+    },
+    {
+      "class": "stkImgToStk",
+      "file": "stickerImgToSticker.js",
+      "commands": [
+        "sticker",
+        "stiker",
+        "stickergif",
+        "sgif",
+        "stk",
+        "s",
+        "sticker",
+        "stiker",
+        "stickergif",
+        "sgif",
+        "stk",
+        "s",
+        "sticker",
+        "stiker",
+        "stickergif",
+        "sgif",
+        "stk",
+        "s",
+        "sticker",
+        "stiker",
+        "stickergif",
+        "sgif",
+        "stk",
+        "s",
+        "sticker",
+        "stiker",
+        "stickergif",
+        "sgif",
+        "stk",
+        "s",
+        "sticker",
+        "stiker",
+        "stickergif",
+        "sgif",
+        "stk",
+        "s"
+      ]
+    },
+    {
+      "class": "suprimir",
+      "file": "suprimir.js",
+      "commands": [
+        "suprimir"
+      ]
+    },
+    {
+      "class": "textProEffect",
+      "file": "textProEffect.js",
+      "commands": [
+        "textpro"
+      ]
+    },
+    {
+      "class": "textProFiccion",
+      "file": "textProFiccion.js",
+      "commands": [
+        "ficcion"
+      ]
+    },
+    {
+      "class": "textProGameOver",
+      "file": "textProGameOver.js",
+      "commands": [
+        "gameover"
+      ]
+    },
+    {
+      "class": "textProGneon",
+      "file": "textProGneon.js",
+      "commands": [
+        "gneon"
+      ]
+    },
+    {
+      "class": "textProHalloween",
+      "file": "textProHalloween.js",
+      "commands": [
+        "halloween"
+      ]
+    },
+    {
+      "class": "textProHotMetal",
+      "file": "textProHotMetal.js",
+      "commands": [
+        "hotmetal"
+      ]
+    },
+    {
+      "class": "textProIce",
+      "file": "textProIce.js",
+      "commands": [
+        "ice"
+      ]
+    },
+    {
+      "class": "textProLava",
+      "file": "textProLava.js",
+      "commands": [
+        "lava"
+      ]
+    },
+    {
+      "class": "textProNeon",
+      "file": "textProNeon.js",
+      "commands": [
+        "gneon"
+      ]
+    },
+    {
+      "class": "textProPencil",
+      "file": "textProPencil.js",
+      "commands": [
+        "pencil"
+      ]
+    },
+    {
+      "class": "textProPornHub",
+      "file": "textProPornHub.js",
+      "commands": [
+        "pornhub"
+      ]
+    },
+    {
+      "class": "textProRainbow",
+      "file": "textProRainbow.js",
+      "commands": [
+        "rainbow"
+      ]
+    },
+    {
+      "class": "textProRoca3d",
+      "file": "textProRoca3d.js",
+      "commands": [
+        "roca3d"
+      ]
+    },
+    {
+      "class": "textProRomper",
+      "file": "textProRomper.js",
+      "commands": [
+        "romper"
+      ]
+    },
+    {
+      "class": "textProSangue",
+      "file": "textProSangue.js",
+      "commands": [
+        "sangue"
+      ]
+    },
+    {
+      "class": "textProAttp",
+      "file": "textProStickerText.js",
+      "commands": [
+        "attp"
+      ]
+    },
+    {
+      "class": "textProThunder",
+      "file": "textProThunder.js",
+      "commands": [
+        "trovao",
+        "trovão",
+        "trovao",
+        "trovão"
+      ]
+    },
+    {
+      "class": "textProToxic",
+      "file": "textProToxic.js",
+      "commands": [
+        "toxico"
+      ]
+    },
+    {
+      "class": "showTime",
+      "file": "time.js",
+      "commands": [
+        "horario",
+        "hora",
+        "time",
+        "horario",
+        "hora",
+        "time",
+        "horario",
+        "hora",
+        "time"
+      ]
+    },
+    {
+      "class": "userBan",
+      "file": "userBan.js",
+      "commands": [
+        "banuser",
+        "banir",
+        "banuser",
+        "banir"
+      ]
+    },
+    {
+      "class": "userRegister",
+      "file": "userRegsiter.js",
+      "commands": [
+        "reg",
+        "register",
+        "reg",
+        "register"
+      ]
+    },
+    {
+      "class": "userUnBan",
+      "file": "userUnBan.js",
+      "commands": [
+        "unbanuser",
+        "desbanir",
+        "unbanuser",
+        "desbanir"
+      ]
+    }
+  ]
+}

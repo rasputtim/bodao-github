@@ -1,0 +1,1 @@
+{"version":3,"file":"antirough.d.ts","sourceRoot":"/","sources":["src/factory/libs/antirough.ts"],"names":[],"mappings":"AAAA;;;;;GAKG;AASH,MAAM,CAAC,OAAO,OAAO,SAAS;IAC1B,MAAM,CAAE,UAAU,MAAuD;IACzE,MAAM,CAAE,SAAS,MAAsD;IAC3E,MAAM,CAAC,OAAO,CAAE,MAAM,KAAA,EAAE,QAAQ,KAAA;IAShC,MAAM,CAAC,YAAY,sCAUjB;IAGF;;;;OAIG;IACH,MAAM,CAAC,QAAQ,sCAUb;CAED"}

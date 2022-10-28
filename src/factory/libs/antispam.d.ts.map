@@ -1,0 +1,1 @@
+{"version":3,"file":"antispam.d.ts","sourceRoot":"/","sources":["src/factory/libs/antispam.ts"],"names":[],"mappings":"AACA,MAAM,CAAC,OAAO,OAAO,QAAQ;IAKzB,MAAM,CAAC,mBAAmB,eAAY;IAEtC;;;OAGG;IACH,MAAM,CAAC,UAAU,CAAG,IAAI,KAAA;IAExB;;;OAGG;IACH,MAAM,CAAC,SAAS,CAAE,IAAI,KAAA;CAKzB"}

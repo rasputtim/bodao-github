@@ -1,0 +1,46 @@
+export default class setting {
+    private _anon;
+    private _anticall;
+    private _antispam;
+    private _antitroli;
+    private _backup;
+    private _backupDB;
+    private _groupOnly;
+    private _jadibot;
+    private _nsfw;
+    private _status;
+    private _statusUpdate;
+    private _antivirus;
+    private _publicjoin;
+    private _autogetmsg;
+    constructor();
+    get anon(): boolean;
+    get anticall(): boolean;
+    get antispam(): boolean;
+    get antitroli(): boolean;
+    get backup(): boolean;
+    get backupDB(): number;
+    get groupOnly(): boolean;
+    get jadibot(): boolean;
+    get nsfw(): boolean;
+    get status(): number;
+    get statusUpdate(): boolean;
+    get antivirus(): boolean;
+    get publicjoin(): boolean;
+    get autogetmsg(): boolean;
+    set anon(v: boolean);
+    set anticall(v: boolean);
+    set antispam(v: boolean);
+    set antitroli(v: boolean);
+    set backup(v: boolean);
+    set backupDB(v: number);
+    set groupOnly(v: boolean);
+    set jadibot(v: boolean);
+    set nsfw(v: boolean);
+    set status(v: number);
+    set statusUpdate(v: boolean);
+    set antivirus(v: boolean);
+    set publicjoin(v: boolean);
+    set autogetmsg(v: boolean);
+}
+//# sourceMappingURL=setting.d.ts.map

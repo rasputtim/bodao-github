@@ -1,0 +1,1 @@
+{"version":3,"file":"intBasic.d.ts","sourceRoot":"/","sources":["src/factory/interfaces/intBasic.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,cAAc;IAC1B,IAAI,GAAG,CAAC;CACZ;AAED,MAAM,WAAW,iBAAiB;IAC7B,CAAC,CAAC,EAAC,GAAG,EAAC,CAAC,EAAC,GAAG,EAAC,CAAC,EAAC,GAAG,GAAE,GAAG,CAAC;CAC5B"}
