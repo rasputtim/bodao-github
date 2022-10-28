@@ -21,22 +21,22 @@ sudo apt-get install magic
 ## Características do bot 
 |  Contenido  |                                           Sip |
 | :---------------------------------------------: | :-----------: |
-| Crea stickers|✔️|
-| Bienvenida automática|✔️|
+| Cria stickers|✔️|
+| Boas Vindas automáticas|✔️|
 | Anti-Link|✔️|
 | Anti-privados|✔️|
 | Anti-Fakes|✔️|
-| Anti-Estranjeros|✔️|
-| Anti-Trabas|✔️|
-| Creador de logos|✔️|
-| Imagenes-Random|✔️|
-| Juegos|✔️|
+| Anti-Estrangeiros|✔️|
+| Anti-Travas|✔️|
+| Criador de logos|✔️|
+| Imagens-Randomicas|✔️|
+| Jogos|✔️|
 | Modo Publico/Privado|✔️|
 | Modo NSFW|✔️|
 | Chat-Bot|✔️|
-| Descarga de música/videos|✔️|
-| Botones interactivos|✔️|
-| Nuevo estilo multidispositivo|✔️|
+| Downloads de música/videos|✔️|
+| Botões interactivos|✔️|
+| Novo estilo multidispositivo|✔️|
 
 ## Instalação no termux
 ```cmd
@@ -84,7 +84,7 @@ sudo apt-get install magic
 
 ## Nossas Redes Sociais ✓
 <a href="https://www.youtube.com/playlist?list=PLzt4hR8S75u37Af_Xn5Zcwqsfy-9Z8jVw"><img width="60px" alt="Youtube" title="Youtube" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYrf6LEg3xKz9iuv3OcmplEWUY8Etgv7e-g&usqp=CAU"/></a>
-## WhatsApp bot multidevice version beta, si encuentras algún error por favor informarme :D
+## Versão beta multidispositivo do bot do WhatsApp, se você encontrar algum erro, por favor me informe :D
 <a href= `https://wa.me/${CREATOR_NUMBER}?text=Bodao...+me+ajude+com+o+bot+multidispositivo+:)`><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## Agradecimentos especiais :3
