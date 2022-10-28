@@ -8,7 +8,7 @@
 <a href="#"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/-TERMUX--BOT--WHATSAPP-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NeKosmic"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rasputtim"><img title="Autor" src="https://img.shields.io/badge/Rasputtim-Bod%C3%A3oSystems-blueb"></a>
 </p>
 
 ## Pre Requisites
